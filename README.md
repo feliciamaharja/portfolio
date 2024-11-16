@@ -6,8 +6,7 @@ This project focuses on analyzing consumer spending patterns on the GoCard to id
 Insights and recommendations are provided on the following key areas:
 - **Consumer Spending Patterns:** Analysis of transaction data to identify popular spending categories, average transaction sizes, and customer preferences. 
 - **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Category 3:**
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
